@@ -23,7 +23,7 @@ PicNotes is a dynamic web application that allows users to view images, add comm
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/picnotes.git
+    git clone https://github.com/priyank-danavle/picnotes.git
     ```
 
 2. Set up the database:
